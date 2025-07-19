@@ -5,16 +5,6 @@
 - **Client**: TypeScript, React, React Query, Mantine
 - **Server**: TypeScript, Node, Express, MongoDB/Mongoose
 
-## Demo
-
-### [Live Demo](https://project--hub.vercel.app)
-
-- Click "Quick Demo" to skip login
-
-![overview-dashboard](https://user-images.githubusercontent.com/91587325/221419343-1d11b7ae-88ac-463b-aef4-e9dcb128fb0b.png)
-![project-dashboard](https://user-images.githubusercontent.com/91587325/221419423-bcc44726-8c12-45b5-a82b-7ee330cdfb6e.png)
-![issue](https://user-images.githubusercontent.com/91587325/221420568-61bee96a-c47a-40a2-bb3d-dc77bb8d0464.gif)
-
 ## Features
 
 - Project
@@ -42,7 +32,7 @@
 - Clone repo
 
 ```bash
-  git clone https://github.com/SOMONSOUM/jira-clone-expressjs-reactjs.git
+  git clone https://github.com/Om-Shankar-191019/projecthub.git
 ```
 
 - Client
